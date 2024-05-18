@@ -1,0 +1,16 @@
+{
+  "name": "html-css",
+  "version": "1.0.0",
+
+  "description": "first page of a project in WildCodeSchool",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": ["html", "css"],
+  "author": "Monica Pardo",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "11.2.0"
+  }
+}
